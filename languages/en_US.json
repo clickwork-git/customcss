@@ -1,0 +1,7 @@
+{
+	"plugin-data":
+	{
+		"name": "Custom CSS",
+		"description": "Plugin to modify a theme with own CSS."
+	}
+}
